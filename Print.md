@@ -1,5 +1,6 @@
 # How to print the model
-
+[![en](https://img.shields.io/badge/lang-en-blue)](Print.md)
+[![cs](https://img.shields.io/badge/lang-cs-red)](Print.cs.md)
 ## Step 1:
 
 Download the model and place it in slicer(idealy cura or prusaslicer)

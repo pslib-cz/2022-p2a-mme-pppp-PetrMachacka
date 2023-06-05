@@ -2,18 +2,19 @@
 [![en](https://img.shields.io/badge/lang-en-blue)](Electronics.md)
 [![cs](https://img.shields.io/badge/lang-cs-red)](Electronics.cs.md)
 ## Step 1:
-Place the Optics inside
+Vlož optiku dovnitř myši
 
 <img src="images/mousea2.jpg" alt="alt text" width="300">
 
 ## Step 2:
-Place the rest  
-Make sure it is right on the pins so it stays in place  
+Vlož vše ostatní  
+Dávej si pozor na správné položení na piny aby základna zůstala dlouhodobě na stejném místě
+
 <img src="images/mousea1.jpg" alt="alt text" width="300">
 
 ## Step 3:
-The final assembly just fit the top on the bottom,  
-you don´t need any screews and you are done.  
-The output should look something like this
+Při konečné montáži už jen nasadíte horní část na dno,  
+nepotřebujete žádné šrouby a je hotovo.  
+Výstup by měl vypadat nějak takto
 
 <img src="images/IMG_20230605_192015.jpg" alt="alt text" width="300">
