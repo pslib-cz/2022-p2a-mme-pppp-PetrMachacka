@@ -1,21 +1,22 @@
 # replacement mouse cover for Marvo m207
+<img src="images/IMG_20230605_192015.jpg" alt="alt text" width="300">
 
-My replacement mouse cover is easy to use and assembled cover for people whos mouse cover was damaged in any way or they just want different design.
-## What do I need?
+<img src="images/Mouse_back.jpg" alt="alt text" width="300">
 
-<ol>
-    <li>3D Printer</li>
-    <li>Around 35g of filament</li>
-    <li>Insides of Marvo m207 [link here](https://www.datart.cz/marvo-mys-m207-2400dpi-optika-6tl-1-kolecko-dratova-usb-cerna-herni-podsvicena-m207.html?gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yOHEzQcGkIXNLW-GMfn9_XcU6I3zXoe4B2Vjl9shj3v5adB2rEeUIaAsIuEALw_wcB)</li>
-</ol>
+My replacement mouse cover is easy to use and assembled cover for people whos mouse cover  
+was damaged in any way or they just want different design. It uses 3D printing as a main tool 
+## What do you need?
 
+
+* 3D Printer
+* Around 35g of any filament(tested with pla)
+* Insides of Marvo m207 [link here](https://www.datart.cz/marvo-mys-m207-2400dpi-optika-6tl-1-kolecko-dratova-usb-cerna-herni-podsvicena-m207.html?gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yOHEzQcGkIXNLW-GMfn9_XcU6I3zXoe4B2Vjl9shj3v5adB2rEeUIaAsIuEALw_wcB)
 ## Documentation
-<ul>
-    <li>Download Models</li>
-    <li>How to print</li>
-    <li>Electronics</li>
 
-</ul>
+* [Download Models]()
+* [How to print](Print.md)
+* [Electronics + Assembly](Electronics.md)
+
 
 ## TODO List 
 - [ ] Print
