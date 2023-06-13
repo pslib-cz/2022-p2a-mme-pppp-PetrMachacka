@@ -14,6 +14,7 @@ was damaged in any way or they just want different design. It uses 3D printing a
 * 3D Printer
 * Around 35g of any filament(tested with pla)
 * Insides of Marvo m207 [link here](https://www.datart.cz/marvo-mys-m207-2400dpi-optika-6tl-1-kolecko-dratova-usb-cerna-herni-podsvicena-m207.html?gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yOHEzQcGkIXNLW-GMfn9_XcU6I3zXoe4B2Vjl9shj3v5adB2rEeUIaAsIuEALw_wcB)
+* Price: 130Kč
 ## Documentation
 
 * [Bottom Model](https://github.com/pslib-cz/2022-p2a-mme-pppp-PetrMachacka/blob/main/bottomfinal.stl)
