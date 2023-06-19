@@ -15,8 +15,15 @@ Make sure it is right on the pins so it stays in place
 <img src="images/Third.jpg" alt="alt text" width="300">
 
 ## Step 3:
-The final assembly just fit the top on the bottom,  
-you don´t need any screews and you are done.  
-The output should look something like this
+now we can put the bottom on the top
 
 <img src="images/Fourth.jpg" alt="alt text" width="300">
+
+## Step 4: 
+Now we just put two screws it the front and everything is done
+<img src="images/Fifth.jpg" alt="alt text" width="300">
+
+## Step 5:
+
+Optionaly we can fill the impervections with some sealer 
+and Spray Paint it at the end.

@@ -16,8 +16,16 @@ Dávej si pozor na správné položení na piny aby základna zůstala dlouhodob
 <img src="images/Third.jpg" alt="alt text" width="300">
 
 ## Krok 3:
-Při konečné montáži už jen nasadíte horní část na dno,  
-nepotřebujete žádné šrouby a je hotovo.  
-Výstup by měl vypadat nějak takto
+Jako předposlední krok Nandáme vrchní část na spodek
 
 <img src="images/Fourth.jpg" alt="alt text" width="300">
+
+## Krok 4:
+Nakonec Zaděláme dvěma šroubky ze předu výrobku 
+
+<img src="images/Fourth.jpg" alt="alt text" width="300">
+
+## Krok 5:
+
+Kdyby jsme chtěli tak můžem ještě nedokonalosti 
+vyplnit tmelem a nasprejovat.
