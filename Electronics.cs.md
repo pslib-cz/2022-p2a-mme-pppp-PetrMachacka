@@ -23,7 +23,7 @@ Jako předposlední krok Nandáme vrchní část na spodek
 ## Krok 4:
 Nakonec Zaděláme dvěma šroubky ze předu výrobku 
 
-<img src="images/Fourth.jpg" alt="alt text" width="300">
+<img src="images/Fifth.jpg" alt="alt text" width="300">
 
 ## Krok 5:
 
