@@ -2,9 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-blue)](README.md)
 [![cs](https://img.shields.io/badge/lang-cs-red)](README.cs.md)
 
-<img src="images/IMG_20230605_192015.jpg" alt="alt text" width="300">
-
-<img src="images/Mouse_back.jpg" alt="alt text" width="300">
+<img src="images/Main.jpg" alt="alt text" width="300">
 
 My replacement mouse cover is easy to use and assembled cover for people whos mouse cover  
 was damaged in any way or they just want different design. It uses 3D printing as a main tool 

@@ -2,9 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-blue)](README.md)
 [![cs](https://img.shields.io/badge/lang-cs-red)](README.cs.md)
 
-<img src="images/IMG_20230605_192015.jpg" alt="alt text" width="300">
-
-<img src="images/Mouse_back.jpg" alt="alt text" width="300">
+<img src="images/Main.jpg" alt="alt text" width="300">
 
 Můj náhradní kryt myši je snadno použitelný a sestavený kryt pro lidi, kteří mají myš
 nějakým způsobem poškozenou nebo jen chtějí jiný design. Jako hlavní nástroj využívá 3D tisk.
