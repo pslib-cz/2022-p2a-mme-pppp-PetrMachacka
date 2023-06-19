@@ -11,7 +11,7 @@ Horní model potřebuje podporu = úhel převisu podpory kolem 60 stupňů
 Také u modelu Top můžete tisknout i vzhůru nohama pro méně podpěr, ale tisk nebude tak hladký.
 
 <img src="images/mouseup.png" alt="alt text" width="300">
-<img src="images/mousedown.png" alt="alt text" width="300">
+<img src="images/MouseDown.png" alt="alt text" width="300">
 
 Spodní model nepotřebuje žádné podpory
 ## Krok 3:
