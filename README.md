@@ -15,8 +15,8 @@ was damaged in any way or they just want different design. It uses 3D printing a
 * Price: 130Kč
 ## Documentation
 
-* [Bottom Model](https://github.com/pslib-cz/2022-p2a-mme-pppp-PetrMachacka/blob/main/bottomfinal.stl)
-* [Top Model](https://github.com/pslib-cz/2022-p2a-mme-pppp-PetrMachacka/blob/main/topfinal.stl)
+* [Bottom Model](https://github.com/pslib-cz/2022-p2a-mme-pppp-PetrMachacka/blob/main/Bottom.stl)
+* [Top Model](https://github.com/pslib-cz/2022-p2a-mme-pppp-PetrMachacka/blob/main/Top.stl)
 * [How to print](Print.md)
 * [Electronics + Assembly](Electronics.md)
 
